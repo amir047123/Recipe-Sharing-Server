@@ -1,8 +1,6 @@
-// models/Reaction.js
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
-// Define the Reaction schema
 const reactionSchema = new Schema({
     recipeId: {
         type: mongoose.Schema.Types.ObjectId,
@@ -33,7 +31,6 @@ const reactionSchema = new Schema({
     timestamps: true,
 });
 
-// Create the Reaction model
 const Reaction = mongoose.model('Reaction', reactionSchema);
 
 module.exports = Reaction;
