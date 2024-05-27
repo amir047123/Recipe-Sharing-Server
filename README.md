@@ -14,6 +14,13 @@ This is a Node.js server for a recipe-sharing application. It uses Express.js fo
 - Node.js (version 14.x or higher recommended)
 - npm (Node Package Manager)
 
+## Client Side Demo
+- Check out the live demo [here](https://recipesharing.niroghealthplus.com).
+
+## Server Side deo
+
+- Check out the live demo [here](https://serverrecipesharing.niroghealthplus.com).
+
 ## Installation
 - Clone the repository:
    ```sh
