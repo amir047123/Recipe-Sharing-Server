@@ -36,7 +36,6 @@ exports.updateUserService = async (id, data) => {
   return result;
 };
 
-// New function to get the total user count
 exports.getTotalUserCountService = async () => {
   const total = await User.countDocuments({});
   return total;
