@@ -17,7 +17,7 @@ This is a Node.js server for a recipe-sharing application. It uses Express.js fo
 ## Client Side Demo
 - Check out the live demo [here](https://recipesharing.niroghealthplus.com).
 
-## Server Side deo
+## Server Side Demo
 
 - Check out the live demo [here](https://serverrecipesharing.niroghealthplus.com).
 
